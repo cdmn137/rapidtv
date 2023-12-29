@@ -1,6 +1,13 @@
 import streamlit as st
 from streamlit.components.v1 import components
 
+st.set_page_config(
+    page_title="RapidTV",
+    page_icon="📺",
+    layout="wide",
+    initial_sidebar_state="expanded",
+    )
+
 canal, info = st.tabs(["Canales", "Info"])
 with canal:
     ancho = 750
