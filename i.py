@@ -39,7 +39,6 @@ with canal:
                 'Discovery H&H': 'https://latele-envivo.com/Embed/discovery-hh/',
                 'Nat Geo': 'https://latele-envivo.com/Embed/national-geographic/',
                 'A & E': 'https://latele-envivo.com/Embed/ae/',
-                'Venus': 'https://latele-envivo.com/Embed/venus/',
                 'ESPN': 'https://latele-envivo.com/Deportes/espn/',
                 'ESPN2': 'https://latele-envivo.com/Deportes/espn2/',
                 'ESPN3': 'https://latele-envivo.com/Deportes/espn3/',
